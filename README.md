@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lais Reis</h1>
 <h3 align="center">The skateboarder who codes</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **DGE - School Game - Portugal**
 
