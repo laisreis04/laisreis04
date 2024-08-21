@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **laisreis04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ULpxL2R0vbG_MjRMQmgycT-ShKs-iKfL/view?usp=sharing](https://drive.google.com/file/d/1ULpxL2R0vbG_MjRMQmgycT-ShKs-iKfL/view?usp=sharing)
+- 📄 Know about my experiences <a style="font-weight: bold" target="_blank" href="https://drive.google.com/file/d/1dL3Xo8fonEmr9hxPUjpb9LmZhs6sDKYn/view?usp=sharing"> My CV - Click Here</a> 
 
 - ⚡ Fun fact **My ADHD makes me a super creative person who solves problems quickly with my ability to find patterns very quickly**
 
