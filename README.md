@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lais Reis</h1>
-<h3 align="center">The skateboarder who codes</h3>
+<h3 align="center">The skateboarder who codes and teaches</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **Cesae Digital as IT Teacher**
 
-- 🌱 I’m currently learning **development of mobile games**
+- 🌱 I’m currently learning **development of mobile apps**
 
 - 📫 How to reach me **laisreis04@gmail.com**
 
