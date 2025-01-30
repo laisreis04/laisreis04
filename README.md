@@ -4,13 +4,17 @@
 
 - 🔭 I’m currently working on **Cesae Digital as IT Teacher**
 
-- 📄 Teaching: **Web development (HTML, CSS, BootStrap), algorithm design (with JAVA), JavaScript, object-oriented programming (with JAVA) and WordPress**
+- 📄 Teaching: <ul>
+  <li>Web development (HTML, CSS, BootStrap)</li>
+   <li>Algorithm design (JAVA)</li>
+    <li>JavaScript</li>
+     <li>Object-oriented programming (JAVA)</li>
+     <li>Android Development (Kotlin)</li>
+</ul> 
 
 - 🌱 I’m currently  **development mobile apps**
 
 - 📫 How to reach me **laisreis04@gmail.com**
-
-- 📄 Know about my experiences <a style="font-weight: bold" target="_blank" href="https://drive.google.com/file/d/1dL3Xo8fonEmr9hxPUjpb9LmZhs6sDKYn/view?usp=sharing"> My CV - Click Here</a> 
 
 - ⚡ Fun fact **My ADHD makes me a super creative person who solves problems quickly with my ability to find patterns very quickly.**
 
