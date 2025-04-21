@@ -12,7 +12,7 @@
      <li>Android Development (Kotlin)</li>
 </ul> 
 
-- 🌱 I’m currently  **development mobile apps**
+- 🌱 I’m currently  **development a website**
 
 - 📫 How to reach me **laisreis04@gmail.com**
 
