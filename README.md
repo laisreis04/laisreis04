@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <a href="Lais_Reis_Front_End.pdf" download="Lais_Reis_Front_End_CV.pdf">
+  <a href="https://drive.google.com/file/d/1kXSWxWyTIG_y7IPySHlPaVl5MLhQE41B/view?usp=sharing" download="https://drive.google.com/file/d/1kXSWxWyTIG_y7IPySHlPaVl5MLhQE41B/view?usp=sharing">
     Download my CV here for more details!
   </a>
 
